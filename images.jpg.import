@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b11s2wdtsshqf"
-path="res://.godot/imported/images.jpg-dd1b460f83b7b58108132bbb59c64734.ctex"
+path="res://.godot/imported/images.jpg-392fe0be61b654ad870f7816b06da8e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Proyecto/images.jpg"
-dest_files=["res://.godot/imported/images.jpg-dd1b460f83b7b58108132bbb59c64734.ctex"]
+source_file="res://Proyecto-Amaterasu/images.jpg"
+dest_files=["res://.godot/imported/images.jpg-392fe0be61b654ad870f7816b06da8e1.ctex"]
 
 [params]
 
