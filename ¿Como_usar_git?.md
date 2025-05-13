@@ -32,3 +32,9 @@ a la subida de archivos que vamos a hacer. Esta descripcion se le llama 'commit'
 4. Por ultimo queda subir el commit al repositorio central en Github. Utilizamos el comando 
 'git push origin "rama" donde origion es el nombre del remoto de nuestro repositiorio y acabamos con la 
 rama donde vamos a subir los cambios. 
+
+```
+int main() {
+    std::cout << "Hello world" << std::endl;
+}
+```
