@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://j5p1vpv54iah"]
+
+[ext_resource type="Texture2D" uid="uid://b4ewdyacyga3k" path="res://icon.svg" id="1_wrv02"]
+
+[node name="Hola_Andy_Descargame" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+self_modulate = Color(0.901961, 0, 0, 1)
+position = Vector2(16, 17)
+texture = ExtResource("1_wrv02")
