@@ -1,10 +1,15 @@
 # Proyecto-Amaterasu
 Proyecto de videojuego
-Al momento de entrar en un nuevo proyecto alojado en github.
-Lo primero que se debe hacer es 'Clonar' el repositiorio de Github 
+Al momento de entrar en un nuevo proyecto alojado en github:
+
+1. Lo primero que se debe hacer es 'Clonar' el repositiorio de Github 
 en el que vas a trabajar en tu computadora. Para esto se necesita la URL 
 de repositorio y ejecutar en terminal de la computadora el comando:
-	'git clone [DIRECCION HTTPS]'
+
+```
+git clone <DIRECCION HTTPS>
+```
+
 Una vez que ya tengas clonado el repositorio debemos saber como obtener
 las ultimas modificaciones que se hicieron en el proyecto. Para esto vamos 
 a necesitar 2 cosas: El comando 'git pull origin 'rama' y justamente la rama 
@@ -33,8 +38,3 @@ a la subida de archivos que vamos a hacer. Esta descripcion se le llama 'commit'
 'git push origin "rama" donde origion es el nombre del remoto de nuestro repositiorio y acabamos con la 
 rama donde vamos a subir los cambios. 
 
-```
-int main() {
-    std::cout << "Hello world" << std::endl;
-}
-```
