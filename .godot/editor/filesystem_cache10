@@ -1,0 +1,19 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1747177006
+Copia de hola_andy_descargame.tscn::PackedScene::-1::1747176195::0::1::::<><><>0<>0<><>::
+escena_godot.tscn::PackedScene::-1::1747176195::0::1::::<><><>0<>0<><>::
+Git Guide.md::TextFile::-1::1747176195::0::1::::<><><>0<>0<><>::
+Hola.tscn::PackedScene::-1::1743718244::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::3377448539050554917::1743546869::1743547491::1::::<><><>0<>0<>242b2d19e3fe94b9d8e896551a6d4671<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+images.jpg::CompressedTexture2D::4266146723228885393::1743718244::1747177019::1::::<><><>0<>0<>3c45e6a084ed791edc6b6e5cfee51fe9<>res://.godot/imported/images.jpg-828aec76970545e387c8e5ec74aa0b53.ctex::
+pera.jpg::CompressedTexture2D/CompressedTexture2D::630199351320813651::1743547826::1743547826::1::::<><><>0<>0<>4dde13b2ab7e5d622468a6df6c62ef4d<>res://.godot/imported/pera.jpg-9e6a9cc15e912ae6ae03dc7ad706cab3.ctex::
+prueba.tscn::PackedScene/PackedScene::5295240431330792981::1747176510::0::1::::<><><>0<>0<><>::uid://i8jj5xaqd45l::::res://pera.jpg
+README.md::TextFile::-1::1747176195::0::1::::<><><>0<>0<><>::
+::res://addons/::1743718536
+::res://addons/godot-git-plugin/::1743718537
+git_plugin.gdextension::GDExtension/GDExtension::1310577196326774533::1743718536::0::1::::<><><>0<>0<><>::
+plugin.cfg::TextFile/TextFile::-1::1743718537::0::1::::<><><>0<>0<><>::
+THIRDPARTY.md::TextFile/TextFile::-1::1743718537::0::1::::<><><>0<>0<><>::
+::res://addons/godot-git-plugin/linux/::1743718536
+::res://addons/godot-git-plugin/macos/::1743718537
+::res://addons/godot-git-plugin/win64/::1747176949
