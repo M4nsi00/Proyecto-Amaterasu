@@ -109,10 +109,40 @@ Dentro del directorio (folder) podemos inicializar este directorio como un repos
 git init
 ```
 
+> *Aclaraciones*: Es posible que también se tenga que ejecutar el comando `git remote add origin <url-del-repositorio>`. Este comando linkea en repositorio local con el repositorio remoto. 
+
 ### Hacer cambios en los archivos
 
 Una vez que se inicializó el directorio como un repositorio de Git, ya se pueden modificar los archivos dentro de este. Usualmente la convención es modificar los archivos de este directorio. No es necesario hacer los cambios en otros archivos y después copiar y pergarlos a este directorio. 
 
 ### Añadir y commits
 
+Ya que se realizaron cambios dentro del directorio (repositorio local) es necesario añadirlos al historial de Git, para que este los pueda trackear. Esto se hace con el comando:
 
+```
+git add <nombre-del-archivo-a-añadir>
+```
+
+Existe una manera más fácil para añadir **todos** los archivos al historial:
+
+```
+git add .
+```
+
+Así se agregar todos los archivos modificados y creados al historial de Git. 
+
+También es importante general un *commit* de esto. Un commit es esencialmente un mensaje del autor de dichos cambios dónde se especifica que cambia o que se añade. Esto se hace con el comando:
+
+```
+git commit -m "<mensaje>"
+```
+
+### Pushear los cambios
+
+Hasta ahora solo se ha trabajado con el repositorio local. Todos los cambios que se han añadido han sido dentro del repositorio local, y por ende solon han sido trackeados por Git. El siguiente paso es subir estos cambios a GitHub para que el equipo entero pueda verlos, es decir, subir todos los cambios al repositorio remoto. Esto se logra a través del comando:
+
+```
+git push -u origin main
+```
+
+> *Aclaraciones*: Este comando pushea los cambios a la rama *main*, que es la rama principal. Instrucciones acerca de distintas ramas se ven más adelante.
